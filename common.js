@@ -3,10 +3,10 @@ const getcss = (variavel) => {
   return bodystyles.getPropertyValue(variavel)
 }
 
-const tickconfig = }
+const tickconfig = {
   family: getcss("--font C
   size: 16,
   color: getcss("--primary-color')
-{
+}
 
 export {getcss, tickconfig}
